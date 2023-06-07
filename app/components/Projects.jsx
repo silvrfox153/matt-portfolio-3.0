@@ -58,7 +58,9 @@ const Projects = () => {
                   Shipstation. Technologies included: Google Analytics, HubSpot.
                 </p>
 
-                <p className="mt-2 text-sm">$50,000 avg. annual sales</p>
+                <p className="mt-2 text-sm text-slate-400">
+                  $50,000 avg. annual sales
+                </p>
               </div>
             </div>
           </li>
@@ -192,7 +194,7 @@ const Projects = () => {
                   Built and maintained campaign website using Squarespace.
                   Google Analytics.
                 </p>
-                <p className="text-sm mt-2">
+                <p className="text-sm mt-2 text-slate-400">
                   Site retired at end of campaign in 2022
                 </p>
               </div>
@@ -234,7 +236,9 @@ const Projects = () => {
                   third party integrations. Actblue, Votebuilder, Google
                   Workspace. Designed campaign logo. Google Analytics.
                 </p>
-                <p className="text-sm mt-2">Site retired in 2022.</p>
+                <p className="text-sm mt-2 text-slate-400">
+                  Site retired in 2022.
+                </p>
               </div>
             </div>
           </li>
@@ -274,7 +278,9 @@ const Projects = () => {
                   Managed third party integrations including Actblue,
                   Votebuilder, Google Workspace. Google Analytics.
                 </p>
-                <p className="text-sm mt-2">Site retired at in 2019.</p>
+                <p className="text-sm mt-2 text-slate-400">
+                  Site retired at in 2019.
+                </p>
               </div>
             </div>
           </li>
