@@ -47,7 +47,7 @@ const Experience = () => {
 
                   <div>
                     <div className="text-slate-500">
-                      <ul className="text-sm">
+                      <ul className="text-sm pt-1">
                         <li>Paddys Lunch</li>
                         <li>Leduc Art & Antiques</li>
                         <li>Timmy Sullivan For State Rep</li>
@@ -69,6 +69,11 @@ const Experience = () => {
                   <li className="mr-1.5 mt-2">
                     <div className="flex items-center rounded-full bg-sky-400/10 px-3 py-1 text-xs font-medium leading-5 text-sky-300 ">
                       WordPress
+                    </div>
+                  </li>
+                  <li className="mr-1.5 mt-2">
+                    <div className="flex items-center rounded-full bg-sky-400/10 px-3 py-1 text-xs font-medium leading-5 text-sky-300 ">
+                      Inkscape
                     </div>
                   </li>
                   <li className="mr-1.5 mt-2">
@@ -137,7 +142,7 @@ const Experience = () => {
                   </div>
 
                   <div className="text-slate-500 text-sm">
-                    <ul className="text-sm">
+                    <ul className="text-sm pt-1">
                       <li>Joe McGuirk For Cambridge</li>
                       <li>Sean Tierney For Cambridge</li>
                       <li>Ruth Ryan Allen For Cambridge</li>
@@ -232,7 +237,7 @@ const Experience = () => {
                   </div>
 
                   <div className="text-slate-500 text-sm">
-                    <ul className="text-sm">
+                    <ul className="text-sm pt-1">
                       <li>Team Lead</li>
                       <li>Senior Analyst</li>
                     </ul>
