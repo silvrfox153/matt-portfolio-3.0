@@ -5,7 +5,7 @@ const Experience = () => {
     <section id="experience" className="pt-5">
       <div className="py-2 px-5">
         <h2 className="uppercase text-xl text-white font-semibold">
-          Experience
+          Work Experience
         </h2>
       </div>
       <div className="px-5">
