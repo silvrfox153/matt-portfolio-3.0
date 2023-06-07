@@ -49,7 +49,7 @@ const Experience = () => {
                   <div>
                     <div className="text-slate-500">
                       <ul className="text-sm pt-1">
-                        <li>Paddys Lunch</li>
+                        <li>Paddy&apos;s Lunch</li>
                         <li>Leduc Art & Antiques</li>
                         <li>Timmy Sullivan For State Rep</li>
                       </ul>
