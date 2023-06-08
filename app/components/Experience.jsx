@@ -64,7 +64,7 @@ const Experience = () => {
                   marketing campaigns to increase traffic and conversion rates.
                   Create and update content and graphics as needed. Monitor, and
                   report on key metrics. Responsible for monitoring performance,
-                  debugging, and for performing software upgrades.
+                  debugging, and performing software upgrades.
                 </p>
                 <ul className="mt-2 flex flex-wrap">
                   <li className="mr-1.5 mt-2">
