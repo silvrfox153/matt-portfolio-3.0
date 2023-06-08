@@ -46,15 +46,7 @@ const Experience = () => {
                     </Link>
                   </div>
 
-                  <div>
-                    <div className="text-slate-500">
-                      <ul className="text-sm pt-1">
-                        <li>Paddy&apos;s Lunch</li>
-                        <li>Leduc Art & Antiques</li>
-                        <li>Timmy Sullivan For State Rep</li>
-                      </ul>
-                    </div>
-                  </div>
+                  <div></div>
                 </h3>
                 <p className="text-slate-400 mt-2 text-sm leading-normal">
                   Build and maintain websites for small businesses and political
@@ -144,9 +136,18 @@ const Experience = () => {
 
                   <div className="text-slate-500 text-sm">
                     <ul className="text-sm pt-1">
-                      <li>Joe McGuirk For Cambridge</li>
-                      <li>Sean Tierney For Cambridge</li>
-                      <li>Ruth Ryan Allen For Cambridge</li>
+                      <li>
+                        Joe McGuirk For Cambridge ·{' '}
+                        <span className="inline-block">2021 & 2023</span>
+                      </li>
+                      <li>
+                        Ruth Ryan Allen For Cambridge ·{' '}
+                        <span className="inline-block">2019</span>
+                      </li>
+                      <li>
+                        Sean Tierney For Cambridge ·{' '}
+                        <span className="inline-block">2017</span>
+                      </li>
                     </ul>
                   </div>
                 </h3>
@@ -187,6 +188,11 @@ const Experience = () => {
                   <li className="mr-1.5 mt-2">
                     <div className="flex items-center rounded-full bg-sky-400/10 px-3 py-1 text-xs font-medium leading-5 text-sky-300 ">
                       ActBlue
+                    </div>
+                  </li>
+                  <li className="mr-1.5 mt-2">
+                    <div className="flex items-center rounded-full bg-sky-400/10 px-3 py-1 text-xs font-medium leading-5 text-sky-300 ">
+                      Mobilize
                     </div>
                   </li>
                   <li className="mr-1.5 mt-2">
@@ -239,8 +245,18 @@ const Experience = () => {
 
                   <div className="text-slate-500 text-sm">
                     <ul className="text-sm pt-1">
-                      <li>Team Lead</li>
-                      <li>Senior Analyst</li>
+                      <li>
+                        Manager ·{' '}
+                        <span className="inline-block">2014-2016</span>
+                      </li>
+                      <li>
+                        Team Lead ·{' '}
+                        <span className="inline-block">2013-2014</span>
+                      </li>
+                      <li>
+                        Senior Analyst ·{' '}
+                        <span className="inline-block">2008-2013</span>
+                      </li>
                     </ul>
                   </div>
                 </h3>
@@ -410,13 +426,6 @@ const Experience = () => {
                   network asset integration/separation requirements with
                   corporate IT network engineers and regional IT Directors.
                 </p>
-                <ul className="mt-2 flex flex-wrap">
-                  <li className="mr-1.5 mt-2">
-                    <div className="flex items-center rounded-full bg-sky-400/10 px-3 py-1 text-xs font-medium leading-5 text-sky-300 ">
-                      WordPress
-                    </div>
-                  </li>
-                </ul>
               </div>
             </div>
           </li>

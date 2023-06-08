@@ -57,9 +57,11 @@ const Projects = () => {
                   </Link>
                 </h3>
                 <p className="text-slate-400 mt-2 text-sm leading-normal">
-                  Built and continue to maintain website using WordPress, and
-                  Elementor. Designed business logo. Google Analytics. Ecommerce
-                  store is currently under development.
+                  Built and continue to maintain website using WordPress,
+                  Elementor, and Woocommerce. Integrated HubSpot, Google
+                  Anlaytics, Google Workspace, and Shipstation. Trained staff on
+                  fullfillment management using Shipstation. Contine to provide
+                  support and training as needed.
                 </p>
               </div>
             </div>
@@ -107,8 +109,8 @@ const Projects = () => {
                 </h3>
                 <p className="text-slate-400 mt-2 text-sm leading-normal">
                   Built and continue to maintain website using WordPress, and
-                  Elementor. Designed business logo. Google Analytics. Ecommerce
-                  store is currently under development.
+                  Elementor. Designed business logo. Integrated HubSpot, and
+                  Google Anlaytics.
                 </p>
               </div>
             </div>
@@ -154,9 +156,9 @@ const Projects = () => {
                 </h3>
                 <p className="text-slate-400 mt-2 text-sm leading-normal">
                   Built and continue to maintain campaign website using
-                  Squarespace. Managed third party integrations. Actblue,
-                  Votebuilder, Google Workspace. Designed campaign logo. Google
-                  Analytics.
+                  Squarespace. Manage third party integrations; Actblue,
+                  Votebuilder, Google Workspace and Google Anlaytics. Designed
+                  campaign logo.
                 </p>
               </div>
             </div>
@@ -194,7 +196,7 @@ const Projects = () => {
                 </h3>
                 <p className="text-slate-400 mt-2 text-sm leading-normal">
                   Built and maintained campaign website using Squarespace.
-                  Google Analytics.
+                  Integrated Google Analytics.
                 </p>
                 <p className="text-sm mt-2 text-slate-400">
                   Site retired at end of campaign in 2022
@@ -236,7 +238,8 @@ const Projects = () => {
                 <p className="text-slate-400 mt-2 text-sm leading-normal">
                   Built and maintained campaign website using WordPress. Managed
                   third party integrations. Actblue, Votebuilder, Google
-                  Workspace. Designed campaign logo. Google Analytics.
+                  Workspace. Designed campaign logo. Integrated Google
+                  Analytics.
                 </p>
                 <p className="text-sm mt-2 text-slate-400">
                   Site retired in 2022.
@@ -278,7 +281,7 @@ const Projects = () => {
                 <p className="text-slate-400 mt-2 text-sm leading-normal">
                   Built and maintained campaign website using Squarespace.
                   Managed third party integrations including Actblue,
-                  Votebuilder, Google Workspace. Google Analytics.
+                  Votebuilder, Google Workspace. Integrated Google Analytics.
                 </p>
                 <p className="text-sm mt-2 text-slate-400">
                   Site retired at in 2019.
