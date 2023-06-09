@@ -403,7 +403,6 @@ const Experience = () => {
           <Link
             href="/assets/Matthew-Tierney-Resume.pdf"
             target="_blank"
-            rel="#"
             aria-label="View Full Resume"
             className="inline-flex items-center leading-tight text-slate-200 font-semibold group"
           >

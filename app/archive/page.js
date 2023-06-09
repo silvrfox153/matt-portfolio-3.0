@@ -7,7 +7,6 @@ export default function Page() {
         <Link
           className="group mb-2 inline-flex items-center font-semibold leading-tight text-sky-300"
           href="/"
-          rel="noopener noreferrer"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"

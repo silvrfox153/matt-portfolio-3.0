@@ -30,7 +30,6 @@ const Projects = () => {
                 <h3>
                   <Link
                     target="_blank"
-                    rel="noopener noreferrer"
                     aria-label="Paddy's Lucnh"
                     href="https://paddys34.com/"
                     className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-sky-300 focus-visible:text-sky-300 group/link text-base"
@@ -82,7 +81,6 @@ const Projects = () => {
                 <h3>
                   <Link
                     target="_blank"
-                    rel="noopener noreferrer"
                     aria-label="Leduc Art & Antiques"
                     href="https://leducartandantiques.com/"
                     className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-sky-300 focus-visible:text-sky-300 group/link text-base"
@@ -129,7 +127,6 @@ const Projects = () => {
                 <h3>
                   <Link
                     target="_blank"
-                    rel="noopener noreferrer"
                     aria-label="Joe McGuirk For Cambridge"
                     href="https://www.joemcguirkforcambridge.com/"
                     className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-sky-300 focus-visible:text-sky-300 undefined group/link text-base"
@@ -291,12 +288,10 @@ const Projects = () => {
             </div>
           </li>
         </ul>
-        <div className="mt-12">
+        <div className="mt-12 py-8">
           <Link
             href="/archive"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="View Full Resume"
+            aria-label="View Full Project Archive"
             className="inline-flex items-center leading-tight text-slate-200 font-semibold group"
           >
             <span className="border-b border-transparent pb-px transition group-hover:border-sky-300 motion-reduce:transition-none">
