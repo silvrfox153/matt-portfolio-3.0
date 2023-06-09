@@ -288,7 +288,7 @@ const Projects = () => {
             </div>
           </li>
         </ul>
-        {/* <div className="mt-12 py-8">
+        <div className="mt-12 py-8">
           <Link
             href="/archive"
             aria-label="View Full Project Archive"
@@ -311,7 +311,7 @@ const Projects = () => {
               </svg>
             </span>
           </Link>
-        </div> */}
+        </div>
       </div>
     </section>
   );
