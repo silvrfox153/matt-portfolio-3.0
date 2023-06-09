@@ -30,7 +30,7 @@ const Projects = () => {
                 <h3>
                   <Link
                     target="_blank"
-                    rel="#"
+                    rel="noopener noreferrer"
                     aria-label="Paddy's Lucnh"
                     href="https://paddys34.com/"
                     className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-sky-300 focus-visible:text-sky-300 group/link text-base"
@@ -60,8 +60,9 @@ const Projects = () => {
                   Built and continue to maintain website using WordPress,
                   Elementor, and Woocommerce. Integrated HubSpot, Google
                   Anlaytics, Google Workspace, and Shipstation. Trained staff on
-                  fullfillment management using Shipstation. Contine to provide
-                  support and training as needed.
+                  inventory managment using Woocommerce and fullfillment
+                  management using Shipstation. Contine to provide support and
+                  training as needed.
                 </p>
               </div>
             </div>
@@ -81,7 +82,7 @@ const Projects = () => {
                 <h3>
                   <Link
                     target="_blank"
-                    rel="#"
+                    rel="noopener noreferrer"
                     aria-label="Leduc Art & Antiques"
                     href="https://leducartandantiques.com/"
                     className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-sky-300 focus-visible:text-sky-300 group/link text-base"
@@ -128,7 +129,7 @@ const Projects = () => {
                 <h3>
                   <Link
                     target="_blank"
-                    rel="#"
+                    rel="noopener noreferrer"
                     aria-label="Joe McGuirk For Cambridge"
                     href="https://www.joemcguirkforcambridge.com/"
                     className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-sky-300 focus-visible:text-sky-300 undefined group/link text-base"
@@ -290,6 +291,32 @@ const Projects = () => {
             </div>
           </li>
         </ul>
+        <div className="mt-12">
+          <Link
+            href="/archive"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="View Full Resume"
+            className="inline-flex items-center leading-tight text-slate-200 font-semibold group"
+          >
+            <span className="border-b border-transparent pb-px transition group-hover:border-sky-300 motion-reduce:transition-none">
+              View Full Project Archive
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 20 20"
+                fill="currentColor"
+                className="ml-1 inline-block h-4 w-4 shrink-0 -translate-y-px transition-transform group-hover:translate-x-2 group-focus-visible:translate-x-2 motion-reduce:transition-none"
+                aria-hidden="true"
+              >
+                <path
+                  fillRule="evenodd"
+                  d="M3 10a.75.75 0 01.75-.75h10.638L10.23 5.29a.75.75 0 111.04-1.08l5.5 5.25a.75.75 0 010 1.08l-5.5 5.25a.75.75 0 11-1.04-1.08l4.158-3.96H3.75A.75.75 0 013 10z"
+                  clipRule="evenodd"
+                ></path>
+              </svg>
+            </span>
+          </Link>
+        </div>
       </div>
     </section>
   );
