@@ -26,6 +26,11 @@ export default function Page() {
         <h2 className="uppercase text-xl text-white font-semibold">
           All Projects
         </h2>
+        <div className="flex justify-center items-center h-[800px]">
+          <h1 className="text-4xl font-medium text-sky-300">
+            Under Construction
+          </h1>
+        </div>
       </div>
     </section>
   );
