@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { TbBrandLinkedin, TbMail } from 'react-icons/tb';
+import { TbBrandLinkedin, TbBrandDribbble } from 'react-icons/tb';
 
 const Header = () => {
   return (
@@ -20,16 +20,16 @@ const Header = () => {
               <TbBrandLinkedin className="h-8 w-8 text-slate-500 hover:text-sky-300" />
             </Link>
           </li>
-          <li>
+          {/* <li>
             <Link
               className=""
-              href="mailto:matt.tierney153@gmail.com"
+              href=""
               target="_blank"
               rel="Noopener noreferrer"
             >
-              <TbMail className="h-8 w-8 text-slate-500 hover:text-sky-300" />
+              <TbBrandDribbble className="h-8 w-8 text-slate-500 hover:text-sky-300" />
             </Link>
-          </li>
+          </li> */}
         </ul>
       </div>
     </header>
