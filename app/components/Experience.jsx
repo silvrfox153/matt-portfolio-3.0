@@ -368,7 +368,7 @@ const Experience = () => {
                   <div className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-sky-300 focus-visible:text-sky-300 undefined group/link text-base">
                     <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                     <span>
-                      Project Manager ·{" "}
+                      Project Manager, Corporate IT ·{" "}
                       <span className="inline-block">
                         AT&T Broadband
                         <svg
@@ -389,12 +389,12 @@ const Experience = () => {
                   </div>
                 </h3>
                 <p className="text-slate-400 mt-2 text-sm leading-normal">
-                  Managed IT projects related to Mergers and Acquisitions as the
-                  central point of contact. Determined network requirements
-                  within acquisition projects with network engineers, vendors,
-                  and internal customers. Coordinated timelines and communicated
-                  network asset integration/separation requirements with
-                  corporate IT network engineers and regional IT Directors.
+                  Managed IT projects related to Mergers and Acquisitions.
+                  Determined network requirements within acquisition projects
+                  with network engineers, vendors, and internal customers.
+                  Coordinated timelines and communicated network asset
+                  integration/separation requirements with corporate IT network
+                  engineers and regional IT Directors.
                 </p>
               </div>
             </div>
