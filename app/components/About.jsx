@@ -17,6 +17,15 @@ const About = () => {
             political campaigns, building four campaign websites, an e-commerce
             website, and a small business website.
           </p>
+          <p>
+            I am an operations leader with a passion for finding and solving
+            challenging problems with great people. I have experience in driving
+            innovative solutions through process improvement, relationship
+            management, project management, and employee development. I can work
+            effectively within cross-functional teams and handle multiple roles
+            and responsibilities. I have a keen eye for detail and a strategic
+            vision for the bigger picture.
+          </p>
         </div>
       </div>
     </section>
